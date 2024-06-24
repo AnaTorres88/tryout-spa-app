@@ -1,0 +1,14 @@
+/* USER STYLES */
+.table {
+    .avatar {
+        height: 80px;
+        width: 80px;
+    }
+    .btn-link {
+        color: var(--strawberry-red);
+        &:hover,
+        &:visited {
+            color: var(--blackberry-purple);
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "nav": {
+        "home": "Home",
+        "users": "Users",
+        "changeLanguage": "Change Language"
+    },
+    "dropwdown": ["English", "Spanish"],
+    "users": {
+        "title": "All Users",
+        "deleteBtn": "Delete User",
+        "detailBtn": "View Details",
+        "tableHeadings": ["Id", "First Name", "Last Name", "Email", "Avatar", "Actions"]
+    },
+    "news": {
+        "title": "News"
+    }
+}

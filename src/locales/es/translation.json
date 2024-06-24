@@ -1,0 +1,18 @@
+{
+    "nav": {
+        "home": "Home",
+        "users": "Usuarios",
+        "changeLanguage": "Cambiar Idioma"
+    },
+    "dropwdown": ["Inglés", "Español"],
+    "users": {
+        "title": "Todos los usuarios",
+        "deleteBtn": "Borrar",
+        "detailBtn": "Ver Detalle",
+        "tableHeadings": ["Id", "Nombre", "Apellido", "Email", "Avatar", "Acciones"]
+    },
+    "news": {
+        "title": "Noticias"
+    }
+
+}
